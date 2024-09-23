@@ -199,16 +199,4 @@ This document provides a comprehensive list of Git commands for version control.
 
 ---
 
-## Cloning with a Personal Access Token (PAT)
-
-To clone a repository using a Personal Access Token (PAT):
-
-```bash
-git clone https://<PAT>@github.com/<username>/<repository>.git
-```
-
-Replace `<PAT>` with your personal access token, `<username>` with your GitHub username, and `<repository>` with the repository name.
-
----
-
 This cheat sheet covers the most frequently used Git commands. For more information or advanced usage, refer to the official [Git documentation](https://git-scm.com/doc).
